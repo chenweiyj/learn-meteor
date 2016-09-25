@@ -1,1 +1,1 @@
-# learn-meteor
+# simple-todos
